@@ -8,7 +8,7 @@ An Online assistance website that has been modified to work better.
 * CSS
 
 ## Website
-https://jyoung0613.github.io/Code-Refactor
+https://jyoung0613.github.io/Code-Refactor/
 
 ## Contribution
 Made with ❤️ by John Young
