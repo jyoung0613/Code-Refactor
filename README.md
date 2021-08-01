@@ -1,2 +1,1 @@
-# Code-Refactor
-1st Weekly Challenge
+# Code Refactor Starter Code
